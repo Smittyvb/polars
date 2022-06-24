@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["BinaryIter","Decodes according to Plain strings, prefixes, lengths and values"]]};
